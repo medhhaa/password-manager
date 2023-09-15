@@ -4,7 +4,8 @@
 } 
 
 nav{
-   background-color: rgb(209, 101, 119);
+   background-color: rgb(187, 233, 52);
+   padding: 12px 2px;
 }
 
 ul{
@@ -18,4 +19,9 @@ ul li{
 
 table, td, tr{
     border: 2px solid black;
+}
+
+.container{
+    max-width: 80vw;
+    margin: 23px auto;
 }
