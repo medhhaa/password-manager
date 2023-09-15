@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+   background-color: pink;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
