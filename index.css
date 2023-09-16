@@ -40,8 +40,10 @@ ul li:hover{
     color:rgb(69, 67, 67);
 }
 
-table, tr{
+table, tr, td{
     border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px 13px;
 }
 
 .container{
